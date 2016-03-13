@@ -101,7 +101,7 @@
 		position: relative;
 		width: 100%;
 		font-size: 11px;
-		background: #eee;
+		background: #c8eebc;
 		color: #888;
 		font-size: 12px;
 		line-height: 30px;
@@ -229,7 +229,6 @@
 
 	.home-image {
 		position: relative;
-		background: url("../img/home.jpg") #aaa no-repeat;
 		background-size: cover;
 		background-position: center center;
 		background-attachment: scroll;
@@ -271,15 +270,42 @@
 		max-width: 200px;
 		border-radius: 2px;
 		color: #fff !important;
-		background: rgba(0,0,0,0.4);
+		background: #28ae67;
+		border: 4px solid #fff;
+		text-align: center;
+	}
+	.home-button2 {
+		display: inline-block;
+		padding-left: 35px;
+		padding-right: 35px;
+		padding: 15px;
+		font-size: 30px;
+		line-height: 30px;
+		font-family: 'open sans condensed', 'open sans', sans serif;
+		font-weight: 900;
+		min-width: 250px;
+		max-width: 95%;
+		letter-spacing: -1px;
+		transition: 300ms;
+		max-width: 200px;
+		border-radius: 2px;
+		color: #fff !important;
+		background: #2bacdf;
 		border: 4px solid #fff;
 		text-align: center;
 	}
 	.home-button:hover {
-		color: #222 !important;
+		color: #fff !important; /*#222*/
 		padding-left: 40px;
 		padding-right: 30px;
-		background: #fff;
+		background: #1d804b;
+		border: 4px solid #fff;
+	}
+	.home-button2:hover {
+		color: #fff !important; /*#222*/
+		padding-left: 40px;
+		padding-right: 30px;
+		background: #0e6980;
 		border: 4px solid #fff;
 	}
 	.home-title-button {
@@ -585,7 +611,10 @@
 			padding-top: 28px;
 			height: 62px;
 		}
-		.footer-map { width:280px; height: 280px !important; }
+		.footer-map {
+			width:280px;
+			height: 280px !important;
+		}
 
 	}
 

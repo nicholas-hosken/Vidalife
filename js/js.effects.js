@@ -1,4 +1,4 @@
-function effects() {   
+function effects() {
 
 	checkScroll();
 	$(window).scroll(function() {
@@ -11,9 +11,9 @@ function effects() {
 	$('.banners').waitForImages({
 		waitForAll: true,
 		finished: function() {
-			$('.banner').show();	
-			$('.loader').hide();	
-			$('.banners').css('background-color','#fff');	
+			$('.banner').show();
+			$('.loader').hide();
+			$('.banners').css('background-color','#fff');
 			banners();
 		}
 	});
@@ -28,7 +28,7 @@ function effects() {
 	$('.menu-link:not(.active)').hover(function() {
 		$('.link-line',this).css('opacity','0').stop().animate({ width: '100%',opacity: '1'}, 400);
 	}, function() {
-		$('.link-line',this).stop().animate({ width: '0px'}, 400); 
+		$('.link-line',this).stop().animate({ width: '0px'}, 400);
 	})
 }
 function checkScroll() {
@@ -39,8 +39,8 @@ function checkScroll() {
 		var opacity = (scroll) + 200;
 		var height = $(window).height() / 2;
 		opacity = opacity / (height+200);
-		if (opacity > 0.8) { opacity = 0.8; }
-		$('.menu').css('background','rgba(0,0,0,'+opacity+')');
+		if (opacity > 0.9) { opacity = 0.9; }
+		$('.menu').css('background','rgba(124,203,226,'+opacity+')');
 	}
 }
 
@@ -52,15 +52,15 @@ function checkSize() {
 	newheight = height - 80;
 	$(".banner").css('height',newheight+'px');
 	$(".banners").css('height',newheight+'px');
-	
-	
+
+
 	height = $(window).height();
 	$('.home-image').css('height',height+'px');
 	var titleheight = $('.home-title').height();
 	var newheight = (height / 2) - (titleheight/2);
 	if (newheight < 80) { newheight = 80; }
 	$('.home-title').css('top',newheight+'px');
-	
+
 	$('.content-image').css('height',(height/2)+'px');
 	$('.content-title').css('top',(((height/2)/2) - 50)+'px');
 }
@@ -81,9 +81,9 @@ function scrollBanner(next) {
 	var id = $('.banner.active').attr("rel");
 	var active = $('#banneractive').val();
 	if ((!next || next != id) && active=='0') {
-	
+
 		$('.dot').removeClass('active');
-		
+
 		$('#banneractive').val('1');
 		$('.banner.active').addClass('transition');
 		$('.banner.active').removeClass('active');
