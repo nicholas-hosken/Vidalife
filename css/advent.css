@@ -34,13 +34,14 @@
 	font-weight: 900;
 	letter-spacing: -1px;
 }
-a .wysiwyg-font-size-large, .wysiwyg-font-size-large a {
+a .wysiwyg-font-size-large,
+.wysiwyg-font-size-large a {
 	display: inline-block;
 	padding-left: 25px;
 	padding-right: 25px;
 	padding: 10px;
 	margin-bottom: 20px;
-  	font-size: 24px;
+  font-size: 24px;
 	font-family: 'open sans condensed', 'open sans', sans serif;
 	font-weight: 900;
 	min-width: 250px;
@@ -49,13 +50,14 @@ a .wysiwyg-font-size-large, .wysiwyg-font-size-large a {
 	transition: 300ms;
 	border-radius: 3px;
 	color: #fff;
-	background: #111;
-	border: 4px solid #111;
+	background: #28ae67;
+	border: 4px solid #c8eebc;
 }
-a .wysiwyg-font-size-large:hover, .wysiwyg-font-size-large a:hover {
+a .wysiwyg-font-size-large:hover,
+.wysiwyg-font-size-large a:hover {
 	color: #111;
-	background: none;
-	border: 4px solid #111;
+	background: 1d804b;
+	border: 4px solid #e0e066;
 }
 .wysiwyg-font-size-medium {
   font-size: 22px;

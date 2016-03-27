@@ -53,3 +53,20 @@
 .mobileflag {
   background: url("../img/church/mex_flag.png") 0% 0% / 100% no-repeat fixed !important;
 }
+
+.home-title-button {
+  margin-top: -100px;
+}
+
+.dominee {
+  font-style: italic;
+  font-size: 24px;
+}
+
+.mission-header {
+	font-size:42px;
+}
+
+.mission-photo {
+	padding: 20px;
+}
