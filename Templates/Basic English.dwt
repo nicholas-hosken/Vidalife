@@ -6,7 +6,7 @@
   ================================================== -->
 	<meta charset="utf-8">
 	<!-- TemplateBeginEditable name="doctitle" -->
-	<title>Vidalife Cancun</title>
+	<title>Vidalife Cancun | Home</title>
 	<!-- TemplateEndEditable -->
 	<meta name="description" content="A bilingual congregation in Cancun helping people grow in their faith in Jesus Christ,
 	become a community and lead others to God." />
@@ -19,14 +19,14 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="css/basic.css">
-	<link rel="stylesheet" href="css/bones.css">
-	<link rel="stylesheet" href="css/layouts.css">
-	<link rel="stylesheet" href="css/lgtbx.css">
-	<link rel="stylesheet" href="css/advent.css">
-	<link rel="stylesheet" href="css/mybuild.css">
+	<link rel="stylesheet" href="../css/basic.css">
+	<link rel="stylesheet" href="../css/bones.css">
+	<link rel="stylesheet" href="../css/layouts.css">
+	<link rel="stylesheet" href="../css/lgtbx.css">
+	<link rel="stylesheet" href="../css/advent.css">
+	<link rel="stylesheet" href="../css/mybuild.css">
 
-	<link rel="icon" type="image/ico" href="img/church/vl_icon.ico"/>
+	<link rel="icon" type="image/ico" href="../img/church/vl_icon.ico"/>
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,700,300,400' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
@@ -36,29 +36,30 @@
 
 	<!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="img/favicon/favicon.html">
-	<link rel="apple-touch-icon" href="img/favicon/apple-touch-icon.html">
-	<link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.html">
-	<link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-touch-icon-114x114.html">
+	<link rel="shortcut icon" href="../img/favicon/favicon.html">
+	<link rel="apple-touch-icon" href="../img/favicon/apple-touch-icon.html">
+	<link rel="apple-touch-icon" sizes="72x72" href="../img/favicon/apple-touch-icon-72x72.html">
+	<link rel="apple-touch-icon" sizes="114x114" href="../img/favicon/apple-touch-icon-114x114.html">
 
 
 	<!-- JS -->
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/js.ajax.js"></script>
-	<script type="text/javascript" src="js/js.effects.js"></script>
-	<script type="text/javascript" src="js/js.functions.js"></script>
-	<script type="text/javascript" src="js/js.validate.js"></script>
-	<script type="text/javascript" src="js/lib/iepngfix_tilebg.js"></script>
-	<script type="text/javascript" src="js/lib/jquery-ui.js"></script>
-	<script type="text/javascript" src="js/lib/jquery.color.js"></script>
-	<script type="text/javascript" src="js/lib/jquery.easing.js"></script>
-	<script type="text/javascript" src="js/lib/jquery.selectric.js"></script>
-	<script type="text/javascript" src="js/lib/js.waitforimages.js"></script>
-	<script type="text/javascript" src="js/lib/jssor.core.js"></script>
-	<script type="text/javascript" src="js/lib/jssor.slider.min.js"></script>
-	<script type="text/javascript" src="js/lib/jssor.utils.js"></script>
-	<script type="text/javascript" src="js/lib/lightbox.js"></script>
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/js.ajax.js"></script>
+	<script type="text/javascript" src="../js/js.effects.js"></script>
+	<script type="text/javascript" src="../js/js.functions.js"></script>
+	<script type="text/javascript" src="../js/js.validate.js"></script>
+	<script type="text/javascript" src="../js/lib/iepngfix_tilebg.js"></script>
+	<script type="text/javascript" src="../js/lib/jquery-ui.js"></script>
+	<script type="text/javascript" src="../js/lib/jquery.color.js"></script>
+	<script type="text/javascript" src="../js/lib/jquery.easing.js"></script>
+	<script type="text/javascript" src="../js/lib/jquery.selectric.js"></script>
+	<script type="text/javascript" src="../js/lib/js.waitforimages.js"></script>
+	<script type="text/javascript" src="../js/lib/jssor.core.js"></script>
+	<script type="text/javascript" src="../js/lib/jssor.slider.min.js"></script>
+	<script type="text/javascript" src="../js/lib/jssor.utils.js"></script>
+	<script type="text/javascript" src="../js/lib/lightbox.js"></script>
 	<!-- TemplateBeginEditable name="head" -->
+    
 	<!-- TemplateEndEditable -->
 </head>
 <body>
@@ -66,35 +67,34 @@
 	================================================== -->
 	<div id="full-container">
 		<div class="mobile-menu">
-			<a href="why-vidalife.html">
+			<a href="../why-vidalife.html">
 				<div class="mobile-link">WHY VIDALIFE?</div>
 			</a>
-			<a href="plan-a-visit.html">
+			<a href="../plan-a-visit.html">
 				<div class="mobile-link">PLAN A VISIT</div>
 			</a>
-			<a href="ywam.html">
-				<div class="mobile-link">YWAM</div>
-			</a>
-			<a href="i-want-to.html">
+			<a href="../i-want-to.html">
 				<div class="mobile-link">I WANT TO</div>
 			</a>
-			<a href="events.html">
+			<a href="../events.html">
 				<div class="mobile-link">EVENTS</div>
 			</a>
-			<a href="downloads.html">
+			<a href="../downloads.html">
 				<div class="mobile-link">DOWNLOADS</div>
 			</a>
-			<a href="contact-us.html">
+			<a href="../contact-us.html">
 				<div class="mobile-link">CONTACT</div>
 			</a>
-			<a href="give.html">
+			<a href="../give.html">
 				<div class="mobile-link">SUPPORT US</div>
 			</a>
-			<a href="esp_home.html">
-				<div class="mobile-link mobileflag"><b>ESPAÑOL</b>
-					<img src="img/church/flag_mex.png" >
+<!--            
+			<a href="../index-es.html">
+				<div class="mobile-link mobileflag"><b>ESPA?OL</b>
+					<img src="../img/church/flag_mex.png" >
 				</div>
 			</a>
+-->        
             <br><br><br>
             <br><br><br>
 		</div>
@@ -103,63 +103,59 @@
 			<div class="container">
 				<div class="sixteen columns">
 					<div class="logo">
-						<a href="index.html">
-							<img src="img/church/vl_logo4.png">
+						<a href="../index.html">
+							<img src="../img/church/vl_logo4.png">
 						</a>
 					</div>
 					<div class="menu-list desktop-only">
 						<div class="menu-link ">
-							<a href="why-vidalife.html">
+							<a href="../why-vidalife.html">
 								<div class="menu-block">WHY VIDALIFE?</div>
 							</a>
 							<div class="link-line" ></div>
 						</div>
 						<div class="menu-link ">
-							<a href="ywam.html">
-								<div class="menu-block">YWAM</div>
+							<a href="../i-want-to.html">
+								<div class="menu-block">I WANT TO...</div>
 							</a>
 							<div class="link-line" ></div>
 						</div>
 						<div class="menu-link ">
-							<a href="i-want-to.html">
-								<div class="menu-block">I WANT TO</div>
-							</a>
-							<div class="link-line" ></div>
-						</div>
-						<div class="menu-link ">
-							<a href="events.html">
+							<a href="../events.html">
 								<div class="menu-block">EVENTS</div>
 							</a>
 							<div class="link-line" ></div>
 						</div>
 						<div class="menu-link ">
-							<a href="downloads.html">
+							<a href="../downloads.html">
 								<div class="menu-block">DOWNLOADS</div>
 							</a>
 							<div class="link-line" ></div>
 						</div>
 						<div class="menu-link ">
-							<a href="contact-us.html">
+							<a href="../contact-us.html">
 								<div class="menu-block">CONTACT</div>
 							</a>
 							<div class="link-line" ></div>
 						</div>
 						<div class="menu-link ">
-							<a href="give.html">
+							<a href="../give.html">
 								<div class="menu-block">SUPPORT US</div>
 							</a>
 							<div class="link-line" ></div>
 						</div>
+<!--                        
 						<div class="menu-link ">
-							<a href="esp_home.html">
+							<a href="../index-es.html">
 								<div class="menu-block">
-									<img src="img/church/langeng.png" style="margin-top: 3px" width="60" height="23">
+									<img src="../img/church/langeng.png" style="margin-top: 3px" width="60" height="23">
 								</div>
 							</a>
 						</div>
+-->                        
 						<div class="menu-link ">
 							<div class="menu-title-button">
-								<a href="plan-a-visit.html" class="art-button" style="margin-top:10px; padding: -50px">PLAN A VISIT</a>
+								<a href="../plan-a-visit.html" class="art-button" style="margin-top:10px; padding: -50px">PLAN A VISIT</a>
 							</div>
 						</div>
 					</div>
@@ -171,8 +167,13 @@
 		</div>
 		<div class="menu-height"></div>
 <!-- TemplateBeginEditable name="content" -->
-<!-- TemplateEndEditable -->
 
+
+
+
+
+
+<!-- TemplateEndEditable -->
     <div id="footer-height"></div>
 	</div>
 
@@ -182,28 +183,25 @@
 				<div class="footer-1 footer-col">
 					<h3>Info</h3>
 					<div>
-						<a href="why-vidalife.html">Why Vidalife?</a>
+						<a href="../why-vidalife.html">Why Vidalife?</a>
 					</div>
 					<div>
-						<a href="plan-a-visit.html">Plan a Visit</a>
+						<a href="../plan-a-visit.html">Plan a Visit</a>
 					</div>
 					<div>
-						<a href="ywam.html">YWAM</a>
+						<a href="../i-want-to.html">I want to</a>
 					</div>
 					<div>
-						<a href="i-want-to.html">I want to</a>
+						<a href="../events.html">Events</a>
 					</div>
 					<div>
-						<a href="events.html">Events</a>
+						<a href="../downloads.html">Downloads</a>
 					</div>
 					<div>
-						<a href="downloads.html">Downloads</a>
+						<a href="../contact-us.html">Contact</a>
 					</div>
 					<div>
-						<a href="contact-us.html">Contact</a>
-					</div>
-					<div>
-						<a href="give.html">Give</a>
+						<a href="../give.html">Give</a>
 					</div>
 				</div>
 				<div class="footer-2 footer-col" align="center">
@@ -230,4 +228,5 @@
 <!-- End Document
 ================================================== -->
 </body>
-</html>
+</html>        
+        

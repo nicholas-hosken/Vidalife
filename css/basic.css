@@ -134,13 +134,13 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-		background: #222;
+		background: #2bacdf;
 		color: #fff !important;
 		font-family: 'open sans', gill sans, arial, sans serif;
 		font-size: 16px;
 		letter-spacing: 0px !important;
 		font-weight: 400;
-		border: 4px solid #222;
+		border: 4px solid #fff;
 		padding: 10px 10px;
 		text-align: center;
 		min-width: 150px;
@@ -157,9 +157,9 @@
 	input[type="submit"]:hover,
 	input[type="reset"]:hover,
 	input[type="button"]:hover {
-		background: #fff;
-		padding-left: 30px;
-		color: #222 !important;
+		background: #28ae67;
+		color: #fff !important;
+		font-weight: bolder;
 	}
 	.button:active,
 	button:active,
