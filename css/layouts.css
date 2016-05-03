@@ -237,7 +237,7 @@
 		width: 100%;
 	}
 	.home-title {
-		position: absolute;
+		/*position: absolute; my alternative = */ padding-top: 120px;
 		left: 0px;
 		text-align: center;
 		font-size: 90px;
