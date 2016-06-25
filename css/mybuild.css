@@ -70,3 +70,59 @@
 .mission-photo {
 	padding: 20px;
 }
+
+#grand {
+	background:url(../img/church/banner3.jpg) no-repeat;
+	background-size:100% 100%;
+	height:670px;
+}
+
+.desktop-only a:hover,
+.four a:hover {
+	text-decoration: none;
+	color:#00a35d;
+}
+
+.home-link:hover {
+	text-decoration: none;
+}
+
+.social-buttons a
+.social-buttons img {
+	text-decoration:none;
+}
+
+.desktop-only > menu-link > a {
+	text-decoration:none;
+}
+.desktop-only > menu-link > a:hover {
+	color:#00a35d;
+}
+
+.help-block {
+
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #737373;
+}
+
+.has-error .form-control {
+    border-color: #a94442;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+}
+
+.has-error .checkbox, .has-error .checkbox-inline, .has-error .control-label, .has-error .help-block, .has-error .radio, .has-error .radio-inline, .has-error.checkbox label, .has-error.checkbox-inline label, .has-error.radio label, .has-error.radio-inline label {
+    color: #a94442;
+}
+
+#li_2, #formul {
+	margin:0;
+	padding:0; 
+}
+
+.subs {
+	border: 1px solid #CCCCCC;
+	padding:10px;
+}
