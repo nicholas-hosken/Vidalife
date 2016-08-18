@@ -1,10 +1,10 @@
 <?php
 
 // configure
-$from = 'Website Contact Form <info@vidalifecancun.com>'; 
+$from = 'I Want Too... <info@vidalifecancun.com>'; 
 $sendTo = 'Info <info@vidalifecancun.com>';
-$subject = 'Web Enquiry';
-$fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in email
+$subject = 'I Want Too...';
+$fields = array('name' => 'Name', 'email' => 'Email', 'enquirytype' => 'Enquirytype', 'phone' => 'Phone',  'message' => 'Message'); // array variable name => Text to appear in email
 $okMessage = 'Contact form successfully submitted. Thank you, we will get back to you soon!';
 $errorMessage = 'There was an error while submitting the form. Please try again later';
 
@@ -12,7 +12,7 @@ $errorMessage = 'There was an error while submitting the form. Please try again 
 
 try
 {
-    $emailText = "You have new message from contact form\n=============================\n";
+    $emailText = "You have new message from the I Want To... form\n=============================\n";
 
     foreach ($_POST as $key => $value) {
 
